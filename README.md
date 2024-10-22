@@ -1,6 +1,6 @@
 #  🪭Stephanie Mboya
 
-**`Digital Craftsman (Data Analyst/Designer/Writer)`**
+**`Digital Craftswoman (Data Analyst/Designer/Writer)`**
 
 I'm a data analyst who thrives on turning raw data into meaningful stories that spark action. With a knack for SQL, data visualization, and statistical analysis, I love uncovering hidden patterns that lead to smarter decisions. Driven by curiosity and a passion for discovery, I’m always diving into data to find the insights others might miss!
 
